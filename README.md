@@ -1,4 +1,4 @@
-# Cloud GPU Resource Scheduling System
+# Cloud CPU/GPU Resource Scheduling System
 
 An Operations Research-based scheduling system for allocating workloads across heterogeneous CPU/GPU cloud resources.
 
