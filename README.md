@@ -2,6 +2,14 @@
 
 An Operations Research-based scheduling system for allocating workloads across heterogeneous CPU/GPU cloud resources.
 
+<br>
+
+<p align="center">
+  <img width="950" alt="Cloud CPU/GPU Resource Scheduling Dashboard" src="https://github.com/user-attachments/assets/416f88e8-650a-4a74-ab8a-ebc5135dadcc" />
+</p>
+
+<br>
+
 The project uses workload characteristics derived from **Google Cluster Data** and applies two optimization approaches — **Integer Programming (IP)** and **Goal Programming (GP)** — to allocate tasks to available resources while considering CPU, memory, GPU availability, priorities, and dependencies.
 
 ---
